@@ -3,12 +3,12 @@ This is inventory management system build on Jupyter notebook using python.
 
 ### About the Repository
 In this project, I used json concept, NOSQL database concept, File handling.
-All selling and purchasing records are maintained in reposiory.We can also add new item and delete item from repository.
+All selling and purchasing records are maintained in repository.We can also add new item and delete item from repository.
 
 ## Features
 1.Add new Item
 2.Delete Item from Repository
-3.Exciting discount offera are availble on various item
+3.Exciting discount offer are available on various item
 4.Purchase multiple item
 5.Option to view availble stock for items.
 
